@@ -15,7 +15,7 @@ Este aplicativo foi desenvolvido com foco em dispositivos iPad, utilizando layou
 - Desenvolvimento focado em construção visual de interface.
   
 # Como Usar?
-Abrir o projeto no ambiente de desenvolvimento utilizado e executar em um simulador ou dispositivo iPad.
+Abrir o projeto na ferramenta de desenvolvimento visual studio code e executar em um simulador ou dispositivo iPad.
 
 # Autor
 - João Pedro.

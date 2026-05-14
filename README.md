@@ -2,7 +2,7 @@
 Projeto de responsividade como atividade acadêmica.
 
 # Sobre o projeto
-Este aplicativo foi desenvolvido com foco na responsividade para dispositivos menores. O objetivo foi ddesenvolver um frontend de um site.
+Este aplicativo foi desenvolvido com foco na responsividade para dispositivos menores. O objetivo foi desenvolver um frontend de um site.
 
 # Funcionalidades
 - Tela principal.

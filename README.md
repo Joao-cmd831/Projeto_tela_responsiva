@@ -2,11 +2,11 @@
 Projeto Mobile como atividade acadêmica.
 
 # Sobre o projeto
-Este aplicativo foi desenvolvido com foco em dispositivos iPad, utilizando layout adaptado para telas maiores. O objetivo foi praticar o desenvolvimento de sites web.
+Este aplicativo foi desenvolvido com foco na responsividade para dispositivos menores. O objetivo foi ddesenvolver um frontend de um site.
 
 # Funcionalidades
 - Tela principal.
-- Navegação entre seções.
+- Navegação entre as seções
 - Tela de contato.
 - Interface adaptada para iPad.
 
@@ -15,7 +15,7 @@ Este aplicativo foi desenvolvido com foco em dispositivos iPad, utilizando layou
 - Desenvolvimento focado em construção visual de interface.
   
 # Como Usar?
-Abrir o projeto na ferramenta de desenvolvimento visual studio code e executar em um simulador ou dispositivo iPad.
+Abrir o projeto na ferramenta de desenvolvimento visual studio code e executar o arquivo num simulador ou em um dispositivo iPad.
 
 # Autor
 - João Pedro.

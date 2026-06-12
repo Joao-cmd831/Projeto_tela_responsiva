@@ -11,8 +11,14 @@ Este aplicativo foi desenvolvido com foco na responsividade para dispositivos me
 - Interface adaptada para iPad.
 
 # Ferramentas usadas
-- Visual Code.
-- Desenvolvimento focado em construção visual de interface.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" />
+          
+</p>
   
 # Como Usar?
 Abrir o projeto na ferramenta de desenvolvimento visual studio code e executar o arquivo num simulador ou em um dispositivo iPad.

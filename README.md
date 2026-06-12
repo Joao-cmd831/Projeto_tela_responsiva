@@ -1,4 +1,4 @@
-# Trabalho_Mobile
+# Trabalho_Web
 Projeto de responsividade como atividade acadêmica.
 
 # Sobre o projeto
